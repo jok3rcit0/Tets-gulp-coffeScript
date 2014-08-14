@@ -1,0 +1,31 @@
+{
+  "name": "simplificar_tareas",
+  "version": "0.0.0",
+  "description": "pequeño ejemplo del uso de gulp y coffeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jok3rcit0/Tets-gulp-coffeScript"
+  },
+  "keywords": [
+    "gulp",
+    "coffescript",
+    "basic",
+    "node",
+    "npm"
+  ],
+  "author": "@jok3rcit0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jok3rcit0/Tets-gulp-coffeScript/issues"
+  },
+  "homepage": "https://github.com/jok3rcit0/Tets-gulp-coffeScript",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-uglify": "^0.3.1",
+    "gulp-uglifyjs": "^0.4.2"
+  }
+}
