@@ -4,5 +4,7 @@
 Para hacer funcionar este ejemplo sigue los pasos, uan vez clonado el repo:<br />
 <ol>
   <li>npm install</li>
-  <li>gulp scripts</li>
+  <li>gulp watchingiu</li>
 </ol>
+
+Listo lo que hace es compilar todos los .coffe que encuentre en la carpeta js/coffe y minificarlos en un solo archivo llamado main.min.js
